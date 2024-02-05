@@ -1,0 +1,17 @@
+
+
+.heading1 {
+    @apply text-7xl text-white mr-5
+}
+
+.main-container {
+    @apply mt-12
+}
+
+.para1 {
+    @apply text-2xl
+}
+
+.services-txt {
+    @apply flex flex-row justify-between align-bottom
+}
