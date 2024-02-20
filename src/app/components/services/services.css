@@ -1,17 +1,22 @@
 
 
 .heading1 {
-    @apply text-7xl text-white mr-5
+    @apply text-5xl text-white pr-5 pb-5 uppercase
 }
 
 .main-container {
-    @apply mt-12
+    @apply mt-12 
 }
 
 .para1 {
-    @apply text-2xl
+    @apply text-xl text-right p-5
 }
 
 .services-txt {
-    @apply flex flex-row justify-between align-bottom
+    @apply flex flex-row justify-between align-bottom w-screen px-40
 }
+.main-container {
+    @apply flex w-[400%] 
+}
+
+
